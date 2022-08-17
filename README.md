@@ -26,7 +26,7 @@ Here's a walkthrough of implemented features:
 
 <!-- LIECAP -->
 GIF created with [LiceCap](http://www.cockos.com/licecap/).  
-"C:\Users\Medhanit Asrat\Documents\Dell\android pre-work.gif"
+I have attached the video walkthrough in this repository.
 <!-- Other options include:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
